@@ -4,8 +4,8 @@ I'm Mohamed from Egypt ,and I'm Front-End. I really enjoy learning languages and
 I graduated from college of commerce 2011 but I did shift career to web developer [front end].
 
 Connect with me:
-[![website]](https://www.linkedin.com/in/mohamed-elantry-9160171bb#gh-light-mode-only)
-[![website]](https://www.linkedin.com/in/mohamed-elantry-9160171bb#gh-dark-mode-only)
+[./img/linkedin-light.svg](https://www.linkedin.com/in/mohamed-elantry-9160171bb#gh-light-mode-only)
+[./img/linkedin-dark.svg](https://www.linkedin.com/in/mohamed-elantry-9160171bb#gh-dark-mode-only)
 
 GitHub Stats Card
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=elantry)](https://github.com/anuraghazra/github-readme-stats)
